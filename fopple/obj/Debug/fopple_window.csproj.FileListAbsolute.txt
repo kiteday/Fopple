@@ -1,0 +1,550 @@
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\bin\Debug\fopple_window.exe.config
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\bin\Debug\fopple_window.exe
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\bin\Debug\fopple_window.pdb
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.exe
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.pdb
+c:\users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\documents\visual studio 2015\Projects\fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\fopple_window\bin\Debug\NLog.xml
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정2)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\NLog.dll
+C:\Users\user\Desktop\(수정2)fopple_window\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정3)fopple_window\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정3)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정4)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정5)fopple_window (2)\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정6)fopple_window\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정6)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\NLog.dll
+C:\Users\user\Desktop\(수정7)fopple_window\bin\Debug\NLog.xml
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정7)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정7 합성)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\NLog.dll
+C:\Users\user\Desktop\(수정9)fopple_window\bin\Debug\NLog.xml
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정9)fopple_window\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정9)fopple_window\(수정9)fopple_window\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정1~1\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정1~1\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\수정10\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\수정10\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정10\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\수정10\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\수정10\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\수정10\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\수정10\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정10\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정11)fopple\(수정10)fopple\obj\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\fopple_window.exe.config
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\fopple_window.pdb
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\ThinkGear.dll
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\Jayrock.Json.dll
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\NLog.dll
+C:\Users\user\Desktop\(수정12)fopple\bin\Debug\NLog.xml
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Form1.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Game_over.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Game_win.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.StopGame.resources
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.exe
+C:\Users\user\Desktop\(수정12)fopple\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정13)fopple\(수정12)fopple\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\수정 15\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\수정 15\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정 15\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\수정 15\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\수정 15\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\수정 15\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\수정 15\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정 15\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\수정 15-2\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\수정16~1\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\수정16~1\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(수정16-2)\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정 17)\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정 17)\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(수정 18)\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(수정 18)\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 1)\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(최종2~1 (2)\obj\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(최종2~1 (2)\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\fopple_window.exe.config
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\fopple_window.pdb
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\ThinkGear.dll
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\Jayrock.Json.dll
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\NLog.dll
+C:\Users\Muho\Desktop\(최종 3)\bin\Debug\NLog.xml
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.End_system.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Form1.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.exe
+C:\Users\Muho\Desktop\(최종 3)\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\fopple_window.exe.config
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\ThinkGear.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\Jayrock.Json.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\NLog.dll
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\bin\Debug\NLog.xml
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.csprojAssemblyReference.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.End_system.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Form1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Game_over.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Game_win.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Game_window.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Level_1.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Mainform.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.Record_form.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.StopGame.resources
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.csproj.GenerateResource.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.csproj.CoreCompileInputs.cache
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.csproj.CopyComplete
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.exe
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.pdb
+C:\Users\누누\Desktop\대학\2학년\2학기\HCI\fopple\(최종 3)\obj\Debug\fopple_window.logout.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\fopple_window.exe.config
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\fopple_window.exe
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\fopple_window.pdb
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\ThinkGear.dll
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\Jayrock.Json.dll
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\NLog.dll
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\bin\Debug\NLog.xml
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.End_system.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Excite_down.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Form1.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Game_over.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Game_win.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Game_window.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Level_1.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.logout.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Mainform.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Properties.Resources.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.Record_form.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.StopGame.resources
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.exe
+C:\Users\user\Desktop\2학년 2학기\HCI\기말 프로젝트\최종 완성본(Fopple)\완성\obj\Debug\fopple_window.pdb
